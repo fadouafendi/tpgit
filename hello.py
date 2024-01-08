@@ -1,3 +1,3 @@
 def ecrire (chaine):
 	print chaine
-print "hello world !"
+ecrire "hello world !"
